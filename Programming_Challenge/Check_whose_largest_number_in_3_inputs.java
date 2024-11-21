@@ -20,7 +20,7 @@ public class Check_whose_largest_number_in_3_inputs {
         int largestNumber = threeNumbers[0];
 
         for(int i=1; i < threeNumbers.length; i++){
-            if (threeNumbers[i] > threeNumbers[0] ) 
+            if (threeNumbers[i] > largestNumber ) 
                 largestNumber = threeNumbers[i];
 
         }
