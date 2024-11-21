@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Check_whose_largest_numer_in_3_inputs {
+public class Check_whose_largest_number_in_3_inputs {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
