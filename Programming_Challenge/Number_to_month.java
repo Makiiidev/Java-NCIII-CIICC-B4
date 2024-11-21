@@ -10,7 +10,7 @@ public class Number_to_month {
 
         // Janurary, March, May, July, August, October and December has 31 days.
         // April, June, September and Novermeber has 30 days.
-        // Feburary is the only one has 28 days every year.
+        // Feburary is the only one has 28 days.
 
         switch (month) {
 
