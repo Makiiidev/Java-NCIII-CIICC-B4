@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sting_Methods {
+public class String_Methods {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
