@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.lang.*; 
 
 public class String_Builder_10_Characters {
 
@@ -14,7 +13,6 @@ public class String_Builder_10_Characters {
         String input;
         input = sc.nextLine();
         StringBuilder sb = new StringBuilder(input);
-
 
         if (input.length() < 10) {
             System.out.println("Error: The string must have at least 10 characters.");
