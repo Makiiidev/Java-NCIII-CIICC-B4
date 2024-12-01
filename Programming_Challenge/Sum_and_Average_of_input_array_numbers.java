@@ -22,10 +22,10 @@ public class Sum_and_Average_of_input_array_numbers {
             sum += num;
         }
 
-        double average = (double) sum / n;
+        double average = sum / n;
 
-        System.out.println("Sum: " + sum);
-        System.out.println("Average: " + average);
+        System.out.println("Sum is : " + sum);
+        System.out.println("Average is : " + average);
         
     }
 }
